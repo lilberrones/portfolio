@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #dcd9d9;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 300;
 }
@@ -13,6 +13,55 @@ body {
     height: 625px;
     margin-left: auto;
     margin-right: auto;
+}
+
+#page1 #logo{
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    background-color: #a72f33;
+    width: 100px;
+    height: 45px;
+    color: #eae9e7;
+}
+
+#page1 #header{
+    overflow: hidden;
+    float: right;
+    text-align: right;
+    background-color: #a72f33;
+    padding: 14px 16px;
+    width: 792px;
+    height: 45px;
+}
+
+#page1 #hero {
+    background-color: #eae9e7;
+    height: 500px;
+}
+
+#page1 .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+#page1 #text {
+    float: left;
+    background-color: #eae9e7;
+    padding: 10px;
+    height: 100px;
+    width: 500px;
+}
+
+#page1 #footer {
+    background-color: #eae9e7;
+    padding: 10px;
+    float: right;
+    width: 416px;
+    height: 100px;
+    text-align: center;
 }
 
 #page2 #logo {
