@@ -98,10 +98,6 @@ body {
     height: 200px;
 }
 
-#page3 #textbox1 {
-    margin-top: 5px;
-}
-
 #page3 #img1 {
     float:left;
     height:100px;
@@ -112,10 +108,6 @@ body {
     width: 854px;
     height: 100px;
     float: right;
-}
-
-#page3 #textbox2 {
-    margin-top: 5px;
 }
 
 #page3 #img2 {
@@ -130,10 +122,6 @@ body {
     float: right;
 }
 
-#page3 #textbox3 {
-    margin-top: 5px;
-}
-
 #page3 #img3 {
     float:left;
     height:100px;
@@ -144,10 +132,6 @@ body {
     width: 854px;
     height: 100px;
     float: right;
-}
-
-#page3 #textbox4 {
-    margin-top: 5px;
 }
 
 #page3 #img4 {
