@@ -1,5 +1,5 @@
 body {
-    background-color: #f0eff4;
+    background-color: #ffffff;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 300;
 }
@@ -10,7 +10,7 @@ body {
 
 #wrapper {
     width: 960px;
-    height: 700px;
+    height: 625px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -29,6 +29,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #b53034;
 }
 
 #page2 #header a {
@@ -36,6 +37,7 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    color: #f0eff4;
 }
 
 #page2 #banner {
@@ -47,6 +49,7 @@ body {
     height: 399px;
     width: 300px;
     overflow: hidden;
+    background-color: #dcd9d9;
 }
 
 #page2 h1{
@@ -55,7 +58,10 @@ body {
 }
 
 #page2 #footer {
-    height: 300px;
+    height: 122px;
+    text-align: center;
+    background-color: #dcd9d9;
+
 }
 
 #page2 #footer a {
@@ -68,6 +74,8 @@ body {
     justify-content: center;
     padding: 14px 16px;
     text-decoration: none;
+    color: #000000;
+    font-size: large;
 }
 
 #page3 #logo {
@@ -84,6 +92,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #b53034;
 }
 
 #page3 #header a {
@@ -91,10 +100,16 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    color: #f0eff4;
 }
 
 #page3 #banner {
     text-align: center;
+    height: 200px;
+    background-color: #dcd9d9;
+}
+
+#page3 #hero {
     height: 200px;
 }
 
@@ -108,6 +123,7 @@ body {
     width: 854px;
     height: 100px;
     float: right;
+    background-color: #dcd9d9;
 }
 
 #page3 #img2 {
@@ -120,6 +136,7 @@ body {
     width: 854px;
     height: 100px;
     float: right;
+    background-color: #dcd9d9;
 }
 
 #page3 #img3 {
@@ -132,6 +149,7 @@ body {
     width: 854px;
     height: 100px;
     float: right;
+    background-color: #dcd9d9;
 }
 
 #page3 #img4 {
@@ -144,4 +162,9 @@ body {
     width: 854px;
     height: 100px;
     float: right;
+    background-color: #dcd9d9;
+}
+
+#page3 #footer {
+    background-color: #dcd9d9;
 }
